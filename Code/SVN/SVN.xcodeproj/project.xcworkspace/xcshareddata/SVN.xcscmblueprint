@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "57beaf4d-bf9d-4fc0-9a61-9eb528ba979b",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "57beaf4d-bf9d-4fc0-9a61-9eb528ba979b" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "57beaf4d-bf9d-4fc0-9a61-9eb528ba979b" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "717F5738-18B0-4359-8463-581DAD3AB6B4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "57beaf4d-bf9d-4fc0-9a61-9eb528ba979b" : "worldone1_\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SVN",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Code\/SVN\/SVN.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/worldone1_",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "57beaf4d-bf9d-4fc0-9a61-9eb528ba979b"
+    }
+  ]
+}
